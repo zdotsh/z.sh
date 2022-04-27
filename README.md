@@ -34,8 +34,6 @@ We believe every member of [z.sh](https://z.sh/) knows what they are doing. We d
 
 **THE DOMAIN Z.SH IS NOT FOR SALE!**
 
-## Contact
+## Support
 
-```
-Email i@z.sh
-```
+Please use [Discord](https://z.sh/discord) for any questions or support.
