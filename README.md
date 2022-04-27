@@ -33,3 +33,9 @@ We believe every member of [z.sh](https://z.sh/) knows what they are doing. We d
 ## Domain Name
 
 **THE DOMAIN Z.SH IS NOT FOR SALE!**
+
+## Contact
+
+```
+Email i@z.sh
+```
