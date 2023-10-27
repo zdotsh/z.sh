@@ -1,6 +1,6 @@
 ## About z.sh
 
-[z.sh](https://z.sh/) is a private URL shortener service for it's friends and family members. 
+[z.sh](https://z.sh/) is a private URL shortener service for its friends and family members.
 
 [z.sh](https://z.sh/) is built with [Shlink](https://shlink.io/).
 
