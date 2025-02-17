@@ -1,34 +1,30 @@
 ## About z.sh
 
-[z.sh](https://z.sh/) is a private URL shortener service for its friends and family members.
+[z.sh](https://z.sh/) is a private URL shortener service for friends and family.
 
-[z.sh](https://z.sh/) is built with [Shlink](https://shlink.io/).
+[z.sh](https://z.sh/) is built on [s.ee](https://s.ee/).
 
-You can't apply for an account. We will invite you when you are eligible to use the service.
+You cannot apply for an API key with `z.sh`. We will invite you when you are eligible to use the service.
+
+To access the free service, sign up at [s.ee](https://s.ee/user/login).
 
 ## @z.sh Email Address
 
-We use [Cloudflare Email Routing](https://blog.cloudflare.com/introducing-email-routing/) service, you need to verify the destination email address by click the link you receive.
+We use [Cloudflare Email Routing](https://developers.cloudflare.com/email-routing/). You must verify your destination email address by clicking the link you receive.
 
-You can't apply for an account. We will invite you when you are eligible to use the service.
+You cannot create an account. We will invite you when you are eligible to use the service.
 
-## API Documenation
+## API Documentation
 
-https://shlink.io/documentation/api-docs/
-
-Generate an API key:
-
-```bash
-docker exec -it shlink shlink api-key:generate --author-only --domain-only=z.sh
-```
+https://s.ee/docs/api/
 
 ## Terms of Service
 
-Any kind of abuse is prohibited.
+Any form of abuse is prohibited.
 
 ## Privacy Policy
 
-We believe every member of [z.sh](https://z.sh/) knows what they are doing. We don't collect any personal information.
+We trust that every member of [z.sh](https://z.sh/) knows what they are doing. We do not collect any personal information.
 
 ## Domain Name
 
@@ -36,4 +32,4 @@ We believe every member of [z.sh](https://z.sh/) knows what they are doing. We d
 
 ## Support
 
-Please use [Discord](https://z.sh/discord) for any questions or support.
+For questions or support, please use [Discord](https://z.sh/discord).
