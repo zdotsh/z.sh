@@ -16,7 +16,7 @@ You cannot create an account. We will invite you when you are eligible to use th
 
 ## API Documentation
 
-https://s.ee/docs/api/
+https://s.ee/docs/development/api/
 
 ## Terms of Service
 
